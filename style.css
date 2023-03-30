@@ -1,0 +1,31 @@
+  
+body{
+    text-align: center;
+    font-family:sans-serif;
+    color:black;
+    background-color:pink ;
+}
+
+img{
+    width: 400px; 
+    height:500px;
+    margin-top:30px;
+
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'allura', cursive;
+    text-shadow: 1px 1px;
+}
+p{
+
+    font-size: 1.5rem;
+    display: inline-block;
+    position:relative;
+    left: 40%;
+    top:80%;
+    padding:0;
+}
+  
+  
